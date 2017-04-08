@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:id="@+id/action_mapa"
+            android:title="Mapa"
+            android:icon="@drawable/mapa" />
+        <item android:id="@+id/action_grupos"
+            android:title="Grupos"
+            android:icon="@drawable/grupos" />
+        <item android:id="@+id/action_historial"
+            android:title="Historial"
+            android:icon="@drawable/historial" />
+        <item android:id="@+id/action_descubrir"
+            android:title="Descubrir"
+            android:icon="@drawable/descubrir" />
+        <item android:id="@+id/informacion"
+            android:title="Informacion"
+            android:icon="@drawable/informacion" />
+    </menu>
+</menu>
