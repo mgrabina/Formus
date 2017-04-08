@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-public class MapsActivity extends AppCompatActivity {
+public class MapsActivity extends AppCompatActivity{
 
     private TextView mTextMessage;
 
@@ -40,6 +40,7 @@ public class MapsActivity extends AppCompatActivity {
         mTextMessage = (TextView) findViewById(R.id.message);
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
+        
     }
 
 }
