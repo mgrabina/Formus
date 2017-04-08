@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Patagonia</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_informacion">Informacion</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_historial">Historial</string>
+    <string name="title_activity_descubrir">Descubrir</string>
+    <string name="title_activity_grupos">Grupos</string>
+    <string name="title_activity_perfi">Perfi</string>
+</resources>
